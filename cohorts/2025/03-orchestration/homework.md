@@ -159,7 +159,7 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 
 ## Submit the results
 
-* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2024/homework/hw3
+* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2025/homework/hw3
 * If your answer doesn't match options exactly, select the closest one.
 
 

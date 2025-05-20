@@ -2,6 +2,8 @@
 
 
 * [Slides](https://drive.google.com/file/d/1YtkAtOQS3wvY7yts_nosVlXrLQBq5q37/view?usp=sharing)
+  
+* **NOTE:** `list_experiments` has been replaced by `search_experiments`. Some notebooks used in this course might need to be updated. | [Reference](https://github.com/mlflow/mlflow/issues/8941)
 
 
 ## 2.1 Experiment tracking intro
@@ -91,4 +93,5 @@ Did you take notes? Add them here:
 * [Experiemnt Tracking and Mlflow by Annaliese Tech](https://github.com/AnnalieseTech/MLOPS_ZOOMCAMP/blob/main/02_EXPERIMENT_TRACKING/EXPERIMENT_TRACKING_NOTES.md)
 * [Adding Hyperparameter Tuning to Your Notebook with MLflow and Hyperopt by Annaliese Tech](https://github.com/AnnalieseTech/MLOPS_ZOOMCAMP/blob/main/02_EXPERIMENT_TRACKING/Hyperparameter-Tuning.md)
 * [MLFlow setup and Experiment Tracking by Hokfu](https://github.com/Hokfu/MLOps_Zoomcamp_Study/blob/main/02-experiment-tracking/README.md)
+* [2025 Cohort | Notes on MLflow & Hyperopt by Gabi Fonseca](https://github.com/fonsecagabriella/ml_ops/blob/main/02_experiment_tracking/__notes.md)
 * Send a PR, add your notes above this line

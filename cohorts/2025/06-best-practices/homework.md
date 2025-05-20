@@ -268,5 +268,5 @@ Let's do that!
 
 ## Submit the results
 
-* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2024/homework/hw6
+* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2025/homework/hw6
 * It's possible that your answers won't match exactly. If it's the case, select the closest one.

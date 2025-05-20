@@ -137,5 +137,5 @@ What is the test RMSE of the best model?
 
 ## Submit the results
 
-* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2024/homework/hw2
+* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2025/homework/hw2
 * If your answer doesn't match options exactly, select the closest one

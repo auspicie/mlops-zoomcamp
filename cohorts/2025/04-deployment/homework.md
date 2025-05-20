@@ -169,5 +169,5 @@ This is just for your reference, you don't need to do it.
 
 ## Submit the results
 
-* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2024/homework/hw4
+* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2025/homework/hw4
 * It's possible that your answers won't match exactly. If it's the case, select the closest one.

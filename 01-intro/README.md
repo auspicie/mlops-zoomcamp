@@ -14,7 +14,7 @@ Instructor: Alexey Grigorev
 
 ### 1.2.1 GitHub Codespaces
 <a href="https://www.youtube.com/watch?v=MzcmWXYxi2s&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&index=2">
-  <img src="images/thumbnail-1-02-1.jpeg" />
+  <img src="images/thumbnail-1-02-1.jpg" />
 </a>
 
 
@@ -128,7 +128,7 @@ Links:
 
 ## 1.6 Homework
 
-More information [here](../cohorts/2024/01-intro/homework.md).
+More information [here](../cohorts/2025/01-intro/homework.md).
 
 
 ## Notes
@@ -160,5 +160,8 @@ Did you take notes? Add them here:
 * [Comprehensive guide to MLOps: Theory & Concepts for Beginners by Nithish Prabhu](https://ntp3105.github.io/Comprehensive-MLOps/Week-1/Introduction%20to%20MLOps.html)
 * [Module 1 Notes -Video 1.2 Env Prep Ec2 troubleshooting notes for remote-ssh vscode to ec2](https://github.com/thatwonguy/mlops-zoomcamp/blob/personal/01-intro/README.md)
 * [Ch1 notes by Marcus](https://github.com/mleiwe/mlops-zoomcamp/blob/Ch1_Marcus/cohorts/2024/01-intro/Ch1_Notes.md)
-  * [GCP setup instructions](https://github.com/mleiwe/mlops-zoomcamp/blob/Ch1_Marcus/cohorts/2024/01-intro/GoogleCloudSetUpNotes.md)
+* [GCP setup instructions](https://github.com/mleiwe/mlops-zoomcamp/blob/Ch1_Marcus/cohorts/2024/01-intro/GoogleCloudSetUpNotes.md)
+* [Machine Learning Essentials: FAQs on Linear Regression, One-Hot Encoding & RMSE](https://github.com/niting9881/course-mlops-zoomcamp/blob/main/01-intro/README.md)
+* [GCP Environment Setup with Terraform + Cloud-Init by Artem](https://github.com/Ladn0/mlops-zoomcamp/tree/main/01-intro/notes)
+* [Week 1 - local setup hints by hannarud](https://github.com/hannarud/mlops-zoomcamp-2025/blob/main/week1_notes.md)
 * Send a PR, add your notes above this line
